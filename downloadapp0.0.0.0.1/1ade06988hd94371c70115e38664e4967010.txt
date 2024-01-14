@@ -1,1 +1,5 @@
-无版本记录
+0.0.1:
+更新:
+无更新，第一个版本，支持串通Fanbook和应用，支持撤回消息
+下载:
+https://pan.icdown.club/share/download?key=6618fb2d3b6d512b3a4fe7740f5884f9d8af6e622bb4c8245ae47132a738e9da&code=IK20E
